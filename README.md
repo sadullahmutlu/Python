@@ -1,4 +1,4 @@
 # Python
-Öğrenirken aldığım notlar ve kod parçalarını ve geliştikçe daha da iyi şeyleri paylaşacağım repo 
+Öğrenirken aldığım notlar ve yazdığım kod parçalarını, geliştikçe daha da iyi şeyleri paylaşacağım repo 
 
 Beklemede Kalın :)
