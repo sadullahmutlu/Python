@@ -57,12 +57,8 @@ def knowledge_competition(question_answers):
     #kullanıcı 5 soru üstüne doğru cevap verirse başarılı olucak.
     #Eğer 5 soru ve üstü yapmak istersek score >=50 diyerek yapabiliriz
     if score > 50:
-        print("\n=================================================")
-        print("Congratulations !! You know more than 5 questions \nToplam Score: ", score) # Toplam Score muzu yazdırdık
-        print("=================================================")
+        print("\nCongratulations !! You know more than 5 questions \nToplam Score: ", score) # Toplam Score muzu yazdırdık
     else:
-        print("\n==============================================")
-        print("Unsuccessful !! You know less than 5 questions \nToplam Score: ",score) # 5 sorudan az bilirse bunu yazdırdık
-        print("==============================================")
+        print("\nUnsuccessful !! You know less than 5 questions") # 5 sorudan az bilirse bunu yazdırdık
      
 knowledge_competition(question_answers) #fonksiyonumuzu çağırdık
